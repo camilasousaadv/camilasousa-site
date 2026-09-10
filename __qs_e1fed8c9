@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecionando...</title>
+  <meta http-equiv="refresh" content="0;url=./2026/02/08/hello-world">
+  <script type="text/javascript">
+    window.location.replace("./2026/02/08/hello-world");
+  </script>
+</head>
+<body>
+  <p>Você está sendo redirecionado para <a href="./2026/02/08/hello-world">./2026/02/08/hello-world</a>...</p>
+</body>
+</html>
